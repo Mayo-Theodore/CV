@@ -6,8 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| ...................          | ----------------- | ..................|
+| ..................           | ----------------- | ................. |
 
 ## Work Experience
 
