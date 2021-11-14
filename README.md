@@ -1,8 +1,8 @@
 ## Mayo Theodore
 
-I enjoy finding new opportunites to create value and what better way to do that than programming!
+I enjoy finding new opportunities to create value, and programming is undoubtedly the best way of achieving this goal!
 
-I am passionate about technology as it allows us to create cutting-edge products and solutions that entertain us, improve the environment and keep us connected. I previously worked as an Analyst in the Client Service team of a Fintech company that created a software that financial institutions used to optimise trading costs. Having the opportunity to learn and work with this technology that solved several real-life applications provided me with an excellent insight into technology's importance to our day-to-day lives.
+I am passionate about technology as it allows us to create cutting-edge products and solutions that entertain us, improve the environment and keep us connected. I previously worked as an Analyst in the Client Service team of a Fintech company that created a program used by financial institutions to optimise trading costs. Having the opportunity to learn and work with this technology that solved several real-life applications provided me with an excellent insight into technology's importance to our day-to-day lives.
 
 
 ## Projects
