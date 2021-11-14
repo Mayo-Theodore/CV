@@ -80,7 +80,9 @@ To be a successful developer, you have to be well rounded. No single quality mak
 ## Hobbies
 
 Fitness: Create personalised exercise and diet programs to assist clients
+
 Charity: Involved with charities and fundraising events
+
 Travelling: Enjoy exploring new territories
 
 
