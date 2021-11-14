@@ -1,77 +1,74 @@
 ## Mayo Theodore
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I enjoy finding new opportunites to create value and what better way to do that than programming!
+
+I am passionate about technology as it allows us to create cutting-edge products and solutions that entertain us, improve the environment and keep us connected. I previously worked as an Analyst in the Client Service team of a Fintech company that created a software that financial institutions used to optimise trading costs. Having the opportunity to learn and work with this technology that solved several real-life applications provided me with an excellent insight into technology's importance to our day-to-day lives.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| ...................          | ----------------- | ..................|
-| ..................           | ----------------- | ................. |
+| .............................| ..................| ..................|
+| .............................| ................. | ................. |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**OpenGamma** (April 2021 to September 2021)
+- Corresponded with clients regarding their day-to-day issues and queries when using the software
+- Worked closely with software developers and other analysts to investigate, diagnose and fix platform issues
+- Perform analysis requested by our clients to help understand and optimise their trading costs
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**CRU International** (November 2019 to April 2021)
+Commodity Analyst
+- Analysis of physical commodity price data and its relationship to global trade and consumption
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mediatree** (October to November 2019)
+Sustainability Manager (Intern)
+- Built models to calculate and help mitigate CO2 emissions for corporates undergoing IPOs
 
-- Any experience relevent to software development
+**AIIM investment Managers** (July to September 2016)  
+Investment Analyst (Intern)
+- Project valuation, financial modelling and preparation of deal screens for the investment committee
+-	Finalised due diligence reports and supported the execution of transactions
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Client Service**
+I have professional experience with building and retaining relationships with clients. My work experience has allowed me to dive into many different aspects of client service, from new business development to managing client queries. This experience has strengthened vital attributes such as being organised and delivering before deadlines.
 
--STAR
--What was the situation/task? (ST)
+**Work Ethic**
+To be a successful developer, you have to be well rounded. No single quality makes a complete developer. Having the right mindset is extremely important. I focus on:
+- Maintaining a positive attitude
+- Being extremely hard-working
+- Leading, contributing and learning when working in a team
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (2021 to 2022)
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College Business School (2018 to 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc, Metals and Energy Finance
+- Merit
+- Financial Modelling, Derivatives, Investment Management, and Mathematics for Finance
 
-#### Any other qualifications
+#### University of Manchester (2013 to 2018)
+- MEng, Materials Science and Engineering
+- First Class
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Fitness: Create personalised exercise and diet programs to assist clients
+Charity: Involved with charities and fundraising events
+Travelling: Enjoy exploring new territories
+
+
+
